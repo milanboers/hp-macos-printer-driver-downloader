@@ -1,0 +1,10 @@
+# downloaded or generated, not part of the repo
+driver/
+drivers/
+
+# macOS
+.DS_Store
+
+# python
+__pycache__/
+*.pyc
